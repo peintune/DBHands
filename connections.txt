@@ -1,0 +1,2 @@
+localhost:1521:dbtest##ra_user:Sybase123
+localhost:1521:dbtest2##ra_user:Sybase123
